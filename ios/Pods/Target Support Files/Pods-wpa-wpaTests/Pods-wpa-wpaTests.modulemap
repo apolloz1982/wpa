@@ -1,0 +1,6 @@
+module Pods_wpa_wpaTests {
+  umbrella header "Pods-wpa-wpaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

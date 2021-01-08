@@ -1,0 +1,6 @@
+module Pods_wpa {
+  umbrella header "Pods-wpa-umbrella.h"
+
+  export *
+  module * { export * }
+}
